@@ -1,0 +1,26 @@
+#Second{
+    background-color: #ffd6ff;
+}
+.alert{
+   background-color:#f3efd1 ; 
+}
+#DRIVES{
+    background-color: #e7c6ff;
+}
+#about{
+    background-color: #c8b6ff;
+}
+#donation{
+    background-color: #b8c0ff;
+}
+section#cardds {
+    padding: 15px;
+    display: flex;
+    flex-wrap: nowrap;
+    /* margin: 15px; */
+    justify-content: center;
+}
+
+.card{
+    margin: 30px;
+}
