@@ -24,3 +24,12 @@ section#cardds {
 .card{
     margin: 30px;
 }
+
+
+
+@media only screen and (max-width: 400px){
+    #about {
+        display:flex; 
+        flex-direction:column;
+    }
+}
